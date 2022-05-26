@@ -1,0 +1,22 @@
+{
+  "name": "socketing",
+  "version": "1.0.0",
+  "description": "socket.io in one function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjiruClinton/socketing.git"
+  },
+  "keywords": [
+    "socketing"
+  ],
+  "author": "Clinton Njiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjiruClinton/socketing/issues"
+  },
+  "homepage": "https://github.com/NjiruClinton/socketing#readme"
+}

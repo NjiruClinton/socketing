@@ -8,8 +8,13 @@ Initialize `socket.io` in one line
 
 ##usage
 
-`socketing(){
+`
+import {socketing} from "socketing";
+
+socketing(){
+
 // write stuff here
+
 }`
 
 > still in development, commits are allowed.
