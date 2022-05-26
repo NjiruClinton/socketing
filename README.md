@@ -6,16 +6,15 @@ Initialize `socket.io` in one line
 
 `npm i socketing --save`
 
-##usage
+## usage
 
-`
+```
 import {socketing} from "socketing";
 
 socketing(){
 
-// write stuff here
-
-}`
+}
+```
 
 > still in development, commits are allowed.
 
